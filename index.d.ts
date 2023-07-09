@@ -57,7 +57,10 @@ export type InstanceAddress = {
   '50000'?: string
   '100000'?: string
   '500000'?: string
+  '1000000'?: string
   '5000000'?: string
+  '10000000'?: string
+  '100000000'?: string
 }
 
 export type Mining = Address & {
