@@ -279,9 +279,11 @@ module.exports = {
     netId369: {
       pls: {
         instanceAddress: {
-          1: '0x62a5e3E370eBfe231343AE44C4a4A570c6b15409',
-          10: '',
-          100: '',
+          10000: '0x62a5e3E370eBfe231343AE44C4a4A570c6b15409',
+          100000: '0xA5AdAaDd0D36531Cf6907823886880AAE8bf9982',
+          1000000: '0xe61BCC423bf0c24b3D02228057B6a0E87cf61062',
+          10000000: '0x032A7F8c462F9504fD518bc6fC20454c96B43fC6',
+          100000000: '0x3f9Be89C93edd002164Af7F56460f89BEA5203F6',
         },
         symbol: 'PLS',
         decimals: 18,
