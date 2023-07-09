@@ -276,6 +276,50 @@ module.exports = {
         decimals: 18,
       },
     },
+    netId369: {
+      pls: {
+        instanceAddress: {
+          1: '0x62a5e3E370eBfe231343AE44C4a4A570c6b15409',
+          10: '',
+          100: '',
+        },
+        symbol: 'PLS',
+        decimals: 18,
+      },
+      usdt: {
+        instanceAddress: {
+          100: '0xADbEE8FdA8229E41AF4A117421a6574609f8898C',
+          1000: '0xe7b6765C3A17B3926e16c9d69347505F7B788Ded',
+          10000: '0xBD61a52034D89e7Fbbc5B75D12E0eEfA474F4486',
+          100000: '0xda3c81Af2F68C4FeE02aF0731fff612056F13285',
+        },
+        tokenAddress: '0x8eA404bacaB023eC9300EF2F18C5114C9872119d',
+        symbol: 'INC',
+        decimals: 18,
+      },
+    },
+    netId943: {
+      pls: {
+        instanceAddress: {
+          1: '0x62a5e3E370eBfe231343AE44C4a4A570c6b15409',
+          10: '',
+          100: '',
+        },
+        symbol: 'PLS',
+        decimals: 18,
+      },
+      usdt: {
+        instanceAddress: {
+          100: '0xADbEE8FdA8229E41AF4A117421a6574609f8898C',
+          1000: '0xe7b6765C3A17B3926e16c9d69347505F7B788Ded',
+          10000: '0xBD61a52034D89e7Fbbc5B75D12E0eEfA474F4486',
+          100000: '0xda3c81Af2F68C4FeE02aF0731fff612056F13285',
+        },
+        tokenAddress: '0x8eA404bacaB023eC9300EF2F18C5114C9872119d',
+        symbol: 'INC',
+        decimals: 18,
+      },
+    },
     netId42161: {
       eth: {
         instanceAddress: {
