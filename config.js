@@ -286,7 +286,7 @@ module.exports = {
         symbol: 'PLS',
         decimals: 18,
       },
-      usdt: {
+      inc: {
         instanceAddress: {
           100: '0xADbEE8FdA8229E41AF4A117421a6574609f8898C',
           1000: '0xe7b6765C3A17B3926e16c9d69347505F7B788Ded',
@@ -308,7 +308,7 @@ module.exports = {
         symbol: 'PLS',
         decimals: 18,
       },
-      usdt: {
+      inc: {
         instanceAddress: {
           100: '0xADbEE8FdA8229E41AF4A117421a6574609f8898C',
           1000: '0xe7b6765C3A17B3926e16c9d69347505F7B788Ded',
