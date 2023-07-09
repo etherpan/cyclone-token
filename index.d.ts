@@ -23,7 +23,7 @@ export const instances: Instances
 
 
 export type availableIds = 1 | 5 | 10 | 56 | 100 | 137 | 42161 | 43114 | 943 | 369
-export type availableTokens = 'eth' | 'dai' | 'cdai' | 'usdc' | 'usdt' | 'wbtc' | 'xdai' | 'matic' | 'avax' | 'bnb' 
+export type availableTokens = 'eth' | 'pls' | 'plsx' | 'inc' | 'hex' | 'usdt' | 'wbtc' | 'xdai' | 'matic' | 'avax' | 'bnb' 
 export type netIds = `netId${availableIds}`
 
 export type Address = {
