@@ -303,19 +303,21 @@ module.exports = {
     netId943: {
       pls: {
         instanceAddress: {
-          1: '0x62a5e3E370eBfe231343AE44C4a4A570c6b15409',
-          10: '',
-          100: '',
+          10000: '0x982aeB1DdbB61059Af13c552A602D95aeE001FCB',
+          100000: '0xA5AdAaDd0D36531Cf6907823886880AAE8bf9982',
+          1000000: '0xe61BCC423bf0c24b3D02228057B6a0E87cf61062',
+          10000000: '0x032A7F8c462F9504fD518bc6fC20454c96B43fC6',
+          100000000: '0x3f9Be89C93edd002164Af7F56460f89BEA5203F6',
         },
         symbol: 'PLS',
         decimals: 18,
       },
       inc: {
         instanceAddress: {
-          100: '0xADbEE8FdA8229E41AF4A117421a6574609f8898C',
-          1000: '0xe7b6765C3A17B3926e16c9d69347505F7B788Ded',
-          10000: '0xBD61a52034D89e7Fbbc5B75D12E0eEfA474F4486',
-          100000: '0xda3c81Af2F68C4FeE02aF0731fff612056F13285',
+          10000: '0xADbEE8FdA8229E41AF4A117421a6574609f8898C',
+          1000000: '0x0a7BF214f6633DE412FeC765648D88481d7552BB',
+          10000000: '0xBD61a52034D89e7Fbbc5B75D12E0eEfA474F4486',
+          100000000: '0xda3c81Af2F68C4FeE02aF0731fff612056F13285',
         },
         tokenAddress: '0x8eA404bacaB023eC9300EF2F18C5114C9872119d',
         symbol: 'INC',
