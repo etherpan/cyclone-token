@@ -312,6 +312,17 @@ module.exports = {
         symbol: 'PLS',
         decimals: 18,
       },
+      hex: {
+        instanceAddress: {
+          10000: '0xADbEE8FdA8229E41AF4A117421a6574609f8898C',
+          1000000: '0x4B814aa1b1cD9F23307b2A902739AB622B7326e9',
+          10000000: '0x0a7BF214f6633DE412FeC765648D88481d7552BB',
+          100000000: '0xda3c81Af2F68C4FeE02aF0731fff612056F13285',
+        },
+        tokenAddress: '0xa6F3281EE73c3f94d94D6343C78A6600D6fe7C5e',
+        symbol: 'HEX',
+        decimals: 8,
+      },
       inc: {
         instanceAddress: {
           10000: '0xADbEE8FdA8229E41AF4A117421a6574609f8898C',
