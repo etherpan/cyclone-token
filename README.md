@@ -1,1 +1,1 @@
-# Pulse-reward-token
+# Pulse-token
